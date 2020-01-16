@@ -77,3 +77,20 @@ a,a:link {
 #icon li:hover {
     opacity:1;
 }
+#visual{
+    width: 680px;
+    height: 523px;
+    position: absolute;
+    left:50%;
+    font-size:0;
+    transform: translateX(-50%);
+    top:250px;
+
+}
+#visual img:nth-child(1){
+    margin-top: 170px;
+}
+#visual img:nth-child(2){
+    position: absolute;
+    right: 0;
+}
